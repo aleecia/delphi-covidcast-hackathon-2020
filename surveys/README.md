@@ -7,7 +7,7 @@ The indicator is run by installing the package `delphiSurvey` and running the sc
 
 ```
 R CMD build delphiSurveys
-R CMD INSTALL delphiSurveys_1.0.tar.gz
+R CMD INSTALL delphiSurveys_1.0.1.tar.gz
 ```
 
 If you see problems installing the built package, you might need to install some additional dependencies.
